@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/SIGELANG.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+h2{
+    color: #050505;
+}
+table{
+    margin-top: 50px;
+    text-align: center;
+    background: #939995;
+    color: #fff;
+}
+
+#show th, #show td{
+    padding: 17px;
+    width: 18%;
+}
+
+#btna td input{
+    width: 100%;
+    border-radius: 10%;
+}
